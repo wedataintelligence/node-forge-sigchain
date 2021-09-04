@@ -35,7 +35,7 @@
     "kbpgp": "^2.1.13",
     "keybase-bitcoinjs-lib": "^1.0.2-1",
     "keybase-proofs": "^2.3.21",
-    "minimist": "^1.1.1",
+    "minimist": "^1.2.5",
     "tweetnacl": "^0.13.1"
   },
   "devDependencies": {
