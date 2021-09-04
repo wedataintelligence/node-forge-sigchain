@@ -26,7 +26,7 @@
   "dependencies": {
     "cson": "^3.0.1",
     "iced-coffee-script": "^108.0.13",
-    "iced-error": "0.0.9",
+    "iced-error": "0.0.13",
     "iced-lock": "^1.0.1",
     "iced-logger": "0.0.6",
     "iced-runtime": "^1.0.2",
